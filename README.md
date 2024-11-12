@@ -62,5 +62,9 @@ Multiple embedding algorithms were applied to the dataset for visualization purp
    <img src="graph/China_UMAP_set_1.png" width="30%"> <img src="graph/China_UMAP_set_2.png" width="30%"> <img src="graph/China_UMAP_set_3.png" width="30%">  
    `N=10009, r=69, h=69`
 
+### Neighbor Bin Plot
+<img src="graph/China_Neighbor_Bin.png">
+`N=10009, r=69, h=69`
+
 ---
 

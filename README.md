@@ -28,8 +28,12 @@ The dataset used in this project is structured as follows:
   - `Y = D[:, 1]`: Latitude
   - `Z = D[:, 2]`: Altitude
 
+### Physical China Map
+<img src="graph/China_physical.png" > 
+
 ### Original Graph Plot
-The original graph plot was designed with an equal axis aspect ratio (`ax.set_aspect('equal')`) for consistency across visualizations.
+<img src="graph/China_original.png"> 
+
 
 ### Embedding Algorithms
 Multiple embedding algorithms were applied to the dataset for visualization purposes. The embeddings are organized in sets and executed with consistent parameters (`N=10009, r=69, h=69`). The algorithms used include:

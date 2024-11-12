@@ -60,4 +60,3 @@ Multiple embedding algorithms were applied to the dataset for visualization purp
 
 ---
 
-This README summarizes the key points of the China map update. Please refer to specific sections in the full documentation for detailed methodology and analysis.
